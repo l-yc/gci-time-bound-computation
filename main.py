@@ -46,5 +46,5 @@ plt.xlabel('n')
 plt.ylabel('time')
 plt.title('Graph of time taken for matrix multiplication against n')
 
-plt.show()
 plt.savefig('figure.png')
+plt.show()
